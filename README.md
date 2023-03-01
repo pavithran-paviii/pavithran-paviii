@@ -28,10 +28,10 @@
 <!-- <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=pavithran-paviii&show_icons=true&theme=dark&hide_border=true&locale=en" alt="pavithran-paviii" />   -->
 </div> 
 <br/>
-<div align="center" display="flex">
+<!-- <div align="center" display="flex">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithran-paviii&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
 </div>
-  
+   -->
 </div> 
 
 ## How to reach me: 📫
