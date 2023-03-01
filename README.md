@@ -23,9 +23,9 @@
 <br/>
 <div align="center">
 <!-- <a href="https://github.com/pavithran-paviii"></a> -->
-<div display="flex">
+<div display="flex" align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pavithran-paviii&theme=dark&hide_border=true" alt="pavithran-paviii" />
-<img  width="48%" src="https://github-readme-stats.vercel.app/api?username=pavithran-paviii&show_icons=true&theme=dark&hide_border=true&locale=en" alt="pavithran-paviii" />  
+<!-- <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=pavithran-paviii&show_icons=true&theme=dark&hide_border=true&locale=en" alt="pavithran-paviii" />   -->
 </div> 
 <br/>
 <div align="center" display="flex">
