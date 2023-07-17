@@ -2,7 +2,7 @@
 
 <h2 align="center">About me: :computer:	</h2>
 <br/>
-<p align="center">I’m a aspiring Full Stack Developer who is interested in building something from scratch, developing new features, pitching ideas. Few projects I worked on involved usage of ExpressJS, Node.js, MongoDb, React, Redux. I'm gaining experience with practice.<br/> I’m looking for an opportunity to learn something new. <br/> <br/> I’m currently learning🌱 React and applying them on few basic applications you can check them here.<br/> <br/>
+<p align="center">I’m a aspiring Full Stack Developer who is interested in building something from scratch, developing new features, pitching ideas. Few projects I worked on involved usage of ExpressJS, Node.js, MongoDb, React, Redux. I'm gaining experience with practice.<br/> I’m looking for an opportunity to learn something new. <br/> <br/> I’m always in process of building some interesting projects🌱 and gaining experience & expertise with that.<br/> <br/>
   Other than the coding, I'm interested in badminton,yoga, and travelling .</p>
 <h2 align="center">Languages and tools: 🧰</h2>
 <br/>
